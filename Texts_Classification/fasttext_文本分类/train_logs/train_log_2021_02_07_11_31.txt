@@ -1,0 +1,9 @@
+the acc is 0.9033
+the paramers is: 
+_epoch    20
+_learning_rate    0.0001
+_lr    1.0
+_minCount    3
+_save_path    ./checkpoints/fasttext_model_2021_02_07_11_31.bin
+_train_log    ./train_logs/train_log_2021_02_07_11_31.txt
+_wordNgrams    3
