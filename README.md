@@ -10,8 +10,7 @@ all_models
 │   ├── __init__.py
 │   ├── base_data_process.py
 │   ├── base_evaluation.py
-│   ├── single_tokenizer.py
-│   └── dict.txt
+│   └── single_tokenizer.py
 │
 ├── Texts_Classification
 │   ├── 机器学习_文本分类
