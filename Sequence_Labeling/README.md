@@ -17,6 +17,7 @@ Sequence_Labeling
 | crf_suite | None | 0.73|  
 | lstm_crf | 5.879 | 0.6983|  
 | bert_lstm_crf | 7.123| 0.825 | 
-| bert_mrc | 0.2608| 0.8283 | 
+| bert_mrc | 0.2608| 0.8283 |   
+  
 bert_mrc和其它的实体抽取模型的模型大体结构不一致，loss做的sigmiod交叉熵，因此loss与其他模型有较大差距  
 目前结果只是针对示例数据集进行了简单调参的结果，实际应用还需自行调整超参。
