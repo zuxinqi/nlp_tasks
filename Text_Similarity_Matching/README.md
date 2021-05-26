@@ -7,6 +7,7 @@ Text_Similarity_Matching
 ├── tfidf
 ├── BM25
 ├── pysparnn
+├── bert_whitening
 └── commodity_title.txt
 ```
 ### 结果对比
