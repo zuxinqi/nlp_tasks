@@ -6,6 +6,8 @@
 Sequence_Labeling
 ├── crf_suite
 ├── lstm_crf
+├── biaffine
+├── simple_lexicon
 ├── bert_lstm_crf
 ├── bert_mrc
 └── 数据准备
