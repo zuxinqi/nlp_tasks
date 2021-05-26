@@ -1,4 +1,4 @@
-# Arcii 文本匹配
+# bert_whitening 文本相似度匹配
 ## 参数设置
 1. DEFAULT
     - uerdict_path 自定义词典的路径
