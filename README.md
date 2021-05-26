@@ -1,6 +1,6 @@
 # NLP算法
 ### 说明
-此算法仓库包括文本分类、序列标注、关系抽取、文本匹配、文本相似度匹配这五个主流NLP任务，涉及到22个相关的模型算法。
+此算法仓库包括文本分类、序列标注、关系抽取、文本匹配、文本相似度匹配这五个主流NLP任务，涉及到28个相关的模型算法。
 ### 框架结构
 ![alt textcnn](./记录/img/框架结构.png)
 ### 文件结构
@@ -19,11 +19,16 @@ all_models
 │   ├── lstm_文本分类
 │   ├── han_文本分类
 │   ├── bert_文本分类
+│   ├── dgcnn_文本分类
+│   ├── dpcnn_文本分类
+│   ├── rcnn_文本分类
 │   └── 数据准备
 │
 ├── Sequence_Labeling
 │   ├── crf_suite
 │   ├── lstm_crf
+│   ├── biaffine
+│   ├── simple_lexicon
 │   ├── bert_lstm_crf
 │   ├── bert_mrc
 │   └── 数据准备
@@ -49,6 +54,7 @@ all_models
 │   ├── tfidf
 │   ├── BM25
 │   ├── pysparnn
+│   ├── bert_whitening_task
 │   └── commodity_title.txt
 │
 ├── 记录
