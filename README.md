@@ -18,10 +18,10 @@ all_models
 │   ├── textcnn_文本分类
 │   ├── lstm_文本分类
 │   ├── han_文本分类
-│   ├── bert_文本分类
 │   ├── dgcnn_文本分类
 │   ├── dpcnn_文本分类
 │   ├── rcnn_文本分类
+│   ├── bert_文本分类
 │   └── 数据准备
 │
 ├── Sequence_Labeling
